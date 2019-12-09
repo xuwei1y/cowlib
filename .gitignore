@@ -13,4 +13,4 @@ examples/*/ebin
 logs
 relx
 test/*.beam
-.rebar
+.rebar/
